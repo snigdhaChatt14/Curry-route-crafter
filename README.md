@@ -36,8 +36,7 @@ npm install
 
 🌐 Live Demo
 
-🔗 Visit here: (https://curry-route-crafter-navy.vercel.app/)
-
+🔗 Visit here: https://curry-route-crafter-fozs.vercel.app/
 💡 Future Enhancements
 
 Add authentication for personalized routes
