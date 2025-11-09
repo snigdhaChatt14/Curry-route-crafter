@@ -37,9 +37,6 @@ npm install
 🌐 Live Demo
 
 🔗 Visit here: (https://curry-route-crafter-navy.vercel.app/)
-📸 Preview
-
-(You can add a screenshot here later — just upload it to your repo and use the link)
 
 💡 Future Enhancements
 
