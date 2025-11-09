@@ -36,7 +36,7 @@ npm install
 
 🌐 Live Demo
 
-🔗 Visit here:  http://localhost:8080/
+🔗 Visit here:  [http://localhost:8080/](https://lovable.dev/projects/b4b019e7-9adc-4a11-b880-a5b9452e1c33)
 📸 Preview
 
 (You can add a screenshot here later — just upload it to your repo and use the link)
